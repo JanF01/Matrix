@@ -1,9 +1,9 @@
 
 function setup(){
  createCanvas(screen.width-10,screen.height-150);
-  frameRate(12);
-    textFont('monospace');
-  background(0,0,0);
+ frameRate(12);
+ textFont('monospace');
+ background(0,0,0);
  
 
 }
