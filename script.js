@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(window.innerWidth, window.innerHeight - 150);
+  createCanvas(window.innerWidth, window.innerHeight);
   frameRate(12);
   textFont('monospace');
   background(0, 0, 0);
